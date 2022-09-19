@@ -1,5 +1,6 @@
 # Breakout-Game
 Written by Moshe Namdar & Nadav Imergreen. 
+Run this game using Visual Studio and SFML graphics library. 
 
 in the program we implemented The game "Breakout". 
 On the main screen, the "menu" will open in which the following 4 options will be displayed:
